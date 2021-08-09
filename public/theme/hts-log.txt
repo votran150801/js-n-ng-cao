@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Feb 2021 20:54:13 at http://theme.nileforest.com/html/philos/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://theme.nileforest.com/html/philos/index.html -O1 "C:\tem\theme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:58:48	Warning: 	Retry after error 409 (Conflict) at link theme.nileforest.com/html/philos/login-register.html (from theme.nileforest.com/html/philos/index.html)
+20:58:49	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.nileforest.com/html/philos/about.html (from theme.nileforest.com/html/philos/index.html)
+20:58:50	Warning: 	Retry after error 409 (Conflict) at link theme.nileforest.com/html/philos/contact.html (from theme.nileforest.com/html/philos/index.html)
+20:58:50	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.nileforest.com/html/philos/img/logo_black.png (from theme.nileforest.com/html/philos/index.html)
+21:00:32	Warning: 	Retry after error -4 (Incorrect length (400974 Bytes, 1145242 expected)) at link theme.nileforest.com/html/philos/img/slide-img/slide_bg1.jpg (from theme.nileforest.com/html/philos/index.html)
+21:01:09	Warning: 	Retry after error -4 (Incorrect length (222841 Bytes, 498953 expected)) at link theme.nileforest.com/html/philos/img/slide-img/slide_bg2.jpg (from theme.nileforest.com/html/philos/index.html)
+21:01:15	Warning: 	Retry after error -4 (Incorrect length (223580 Bytes, 768433 expected)) at link theme.nileforest.com/html/philos/img/slide-img/slide_bg3.jpg (from theme.nileforest.com/html/philos/index.html)
+21:01:52	Warning: 	Retry after error -4 (Incorrect length (223646 Bytes, 613282 expected)) at link theme.nileforest.com/html/philos/img/blog/blog_01.jpg (from theme.nileforest.com/html/philos/index.html)
+21:01:54	Warning: 	Retry after error -4 (Incorrect length (234273 Bytes, 683381 expected)) at link theme.nileforest.com/html/philos/img/blog/blog_02.jpg (from theme.nileforest.com/html/philos/index.html)
+21:02:01	Warning: 	Retry after error -4 (Incorrect length (236070 Bytes, 745043 expected)) at link theme.nileforest.com/html/philos/img/blog/blog_03.jpg (from theme.nileforest.com/html/philos/index.html)
+21:02:37	Warning: 	Retry after error -4 (Incorrect length (239991 Bytes, 520714 expected)) at link theme.nileforest.com/html/philos/js/plugins/jquery-ui.js (from theme.nileforest.com/html/philos/index.html)
+21:02:56	Error: 	"Not Found" (404) at link theme.nileforest.com/html/philos/plugins/rev_slider/css/openhand.cur (from theme.nileforest.com/html/philos/plugins/rev_slider/css/settings-ver.5.3.1.css)
+21:02:56	Error: 	"Not Found" (404) at link theme.nileforest.com/html/philos/plugins/rev_slider/css/closedhand.cur (from theme.nileforest.com/html/philos/plugins/rev_slider/css/settings-ver.5.3.1.css)
+21:02:56	Warning: 	Retry after error 409 (Conflict) at link theme.nileforest.com/html/philos/login-register.html (from theme.nileforest.com/html/philos/index.html)
+21:02:56	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.nileforest.com/html/philos/about.html (from theme.nileforest.com/html/philos/index.html)
+21:02:56	Warning: 	Retry after error 409 (Conflict) at link theme.nileforest.com/html/philos/contact.html (from theme.nileforest.com/html/philos/index.html)
+21:02:57	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.nileforest.com/html/philos/sdsd (from theme.nileforest.com/html/philos/shop_grid.html)
+21:02:58	Warning: 	Retry after error -4 (Incorrect length (221897 Bytes, 579883 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_2.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:02:58	Warning: 	Retry after error -4 (Incorrect length (224454 Bytes, 648308 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_3.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:03:04	Warning: 	Retry after error -4 (Incorrect length (230526 Bytes, 635256 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_4.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:03:21	Warning: 	Retry after error -4 (Incorrect length (230976 Bytes, 481123 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_5.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:03:34	Warning: 	Retry after error -4 (Incorrect length (231150 Bytes, 602307 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_6.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:03:35	Warning: 	Permanent Redirect for pinterest.com/robots.txt
+21:03:35	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/robots.txt and https://pinterest.com/robots.txt
+21:03:35	Warning: 	Warning moved treated for pinterest.com/robots.txt (real one is https://pinterest.com/robots.txt)
+21:03:55	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://nileforest.com/exampleImage.jpg
+21:03:55	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://nileforest.com/exampleImage.jpg and https://pinterest.com/pin/create/button/?url=http://nileforest.com/exampleImage.jpg
+21:03:55	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://nileforest.com/exampleImage.jpg to https://pinterest.com/pin/create/button/?url=http://nileforest.com/exampleImage.jpg
+21:03:55	Warning: 	Retry after error -4 (Incorrect length (369225 Bytes, 1239481 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_2.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:04:01	Warning: 	Retry after error -4 (Incorrect length (649190 Bytes, 1234304 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_4.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:04:09	Warning: 	Retry after error -4 (Incorrect length (911403 Bytes, 1567807 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_7.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:04:35	Warning: 	Retry after error -4 (Incorrect length (621794 Bytes, 1145242 expected)) at link theme.nileforest.com/html/philos/img/slide-img/slide_bg1.jpg (from theme.nileforest.com/html/philos/index.html)
+21:04:38	Warning: 	Retry after error -4 (Incorrect length (445449 Bytes, 768433 expected)) at link theme.nileforest.com/html/philos/img/slide-img/slide_bg3.jpg (from theme.nileforest.com/html/philos/index.html)
+21:04:47	Warning: 	Retry after error -4 (Incorrect length (455683 Bytes, 745043 expected)) at link theme.nileforest.com/html/philos/img/blog/blog_03.jpg (from theme.nileforest.com/html/philos/index.html)
+21:04:53	Error: 	"Not Found" (404) at link theme.nileforest.com/html/philos/css/plugins/owl.video.play.png (from theme.nileforest.com/html/philos/css/plugins/owl.carousel.css)
+21:04:53	Error: 	"Not Found" (404) at link theme.nileforest.com/html/philos/css/plugins/ajax-loader.gif (from theme.nileforest.com/html/philos/css/plugins/slick.css)
+21:04:53	Error: 	"Conflict" (409) after 2 retries at link theme.nileforest.com/html/philos/login-register.html (from theme.nileforest.com/html/philos/index.html)
+21:04:53	Error: 	"No data (connection closed)" (-4) after 2 retries at link theme.nileforest.com/html/philos/contact.html (from theme.nileforest.com/html/philos/index.html)
+21:04:53	Error: 	"Not Found" (404) at link theme.nileforest.com/html/philos/sdsd (from theme.nileforest.com/html/philos/shop_grid.html)
+21:04:53	Warning: 	Retry after error -4 (Incorrect length (447643 Bytes, 648308 expected)) at link theme.nileforest.com/html/philos/img/product-img/single/product_12547007_3.jpg (from theme.nileforest.com/html/philos/product_detail.html)
+21:05:12	Warning: 	Retry after error -4 (Incorrect length (729376 Bytes, 1239481 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_2.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:05:26	Warning: 	Retry after error -4 (Incorrect length (873879 Bytes, 1234304 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_4.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:05:30	Warning: 	Retry after error -4 (Incorrect length (1145007 Bytes, 1567807 expected)) at link theme.nileforest.com/html/philos/img/bg/bg_7.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+21:05:33	Error: 	"Incorrect length (850191 Bytes, 1145242 expected)" (-4) after 2 retries at link theme.nileforest.com/html/philos/img/slide-img/slide_bg1.jpg (from theme.nileforest.com/html/philos/index.html)
+21:05:48	Error: 	"Incorrect length (983230 Bytes, 1239481 expected)" (-4) after 2 retries at link theme.nileforest.com/html/philos/img/bg/bg_2.jpg (from theme.nileforest.com/html/philos/portfolio.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 54 seconds : 174 links scanned, 132 files written (17505030 bytes overall) [18349497 bytes received at 25699 bytes/sec], 1288998 bytes transferred using HTTP compression in 22 files, ratio 19%, 1.9 requests per connection
+(9 errors, 36 warnings, 0 messages)

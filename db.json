@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "categoryIdcategoryId": "1",
+      "name": "Refined Steel Shoesss",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470001.jpg?alt=media&token=ba9660b8-cbc7-4515-848f-0f6b2a9d63cc",
+      "price": "849.00",
+      "status": false,
+      "countInstock": 90,
+      "Materrial": "Frozen1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "categoryId": "1",
+      "name": "Tasty Concrete Chips",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470003.jpg?alt=media&token=c55f7d1a-e229-4529-89fc-7168aab4c9d9",
+      "price": "762.00",
+      "status": true,
+      "countInstock": 20,
+      "Materrial": "Frozen2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d"
+    },
+    {
+      "id": "3",
+      "categoryId": "1",
+      "name": "Awesome Soft Fish",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470007.jpg?alt=media&token=c390f87c-0f15-42ea-962e-8bca0e16a312",
+      "price": "633.00",
+      "status": false,
+      "countInstock": 70,
+      "Materrial": "Frozen3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d"
+    },
+    {
+      "id": "4",
+      "categoryId": "1",
+      "name": "Gorgeous Concrete Car",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470004.jpg?alt=media&token=fc2ff9d9-d0a8-42e2-8878-b707ea08f8cc",
+      "price": "728.00",
+      "status": false,
+      "countInstock": 30,
+      "Materrial": "Frozen4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d"
+    },
+    {
+      "id": "05znupjya",
+      "name": "FAO",
+      "price": "7000",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470002.jpg?alt=media&token=db7d9d2d-0d43-4afa-a0ff-8140e157c8a0",
+      "categoryId": "1"
+    },
+    {
+      "id": "vojkrkosk",
+      "categoryId": "1",
+      "name": "sd",
+      "price": "7000",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470004.jpg?alt=media&token=f4c7ec54-803a-4e7a-9692-46084bbc6720"
+    },
+    {
+      "id": "wpbuoh945",
+      "name": "sdd",
+      "price": "55555555555",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%20product_125470004.jpg?alt=media&token=3dee43ac-d4fd-48aa-8d79-698ec477c807",
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d"
+    },
+    {
+      "id": "dgix5qub4",
+      "name": "áo nam",
+      "price": "70002222",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%20%2F%206038cacfc9f7b-product_125470003.jpg?alt=media&token=ac84bbaf-589d-4e37-9df7-b5bcc627135e"
+    },
+    {
+      "id": "w5bc65ppf",
+      "name": "áo nữ",
+      "price": "4000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fphoto_8-3-20__20_35_16_c14b6c1d27104e28b01a7eee0b633c32_grande.jpg?alt=media&token=2baedd3e-dfca-4f80-b5ff-ad335e214195"
+    },
+    {
+      "id": "zw98co50m",
+      "name": "áo nữ",
+      "price": "6000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fsao_viet_midu_aothunbasic_grande.jpg?alt=media&token=baace063-8dad-4403-a231-1af3606a0e04"
+    },
+    {
+      "id": "wuxel0684",
+      "name": "áo nữ",
+      "price": "7000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fsao_viet_midu_aothunbasic_grande.jpg?alt=media&token=1d5ab1f8-0b97-4913-9bbf-078c0e424f03"
+    },
+    {
+      "id": "ywuz8pity",
+      "name": "áo nữ",
+      "price": "7000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2F080712trang189jpg134188157018.jpg?alt=media&token=5731ba79-d6e7-4f6c-a889-68b8f20868bc"
+    },
+    {
+      "id": "a11gu6qow",
+      "name": "áo nữ",
+      "price": "6000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fz2052924720583_b8085561aa18f62bda7ed62e09b5d3cc_1c6d12de73e44a6abbeeb035d1599218_grande.jpg?alt=media&token=b6bd5227-73d4-4c6c-bd9f-61536be35222"
+    },
+    {
+      "id": "j1f0jfbz9",
+      "name": "áo nữ",
+      "price": "1000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fstreetstyle-sao-viet-nu-hoang-ao-phong-ky-duyen-ap-dao-ho-ngoc-ha-thanh-hang-voi-bst-khung-a6-1511506676-926-width440height600.jpg?alt=media&token=92b4e82a-fb7e-42da-aa17-b65f125ed500"
+    },
+    {
+      "id": "01fhurpkq",
+      "name": "áo nữ",
+      "price": "2000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fimg-5221.jpg?alt=media&token=20289c10-7d70-46ad-b1ec-de840a74407c"
+    },
+    {
+      "id": "utuv34gpp",
+      "name": "áo nữ",
+      "price": "7000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni maxime odio dignissimos suscipit reprehenderit, nostrum, architecto consectetur exercitationem aliquid ad corporis voluptatem quas aspernatur quibusdam praesentium, voluptate eaque qui.d",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-8af93.appspot.com/o/images%2Fphoto_8-3-20__20_35_16_c14b6c1d27104e28b01a7eee0b633c32_grande.jpg?alt=media&token=39fea898-57d6-4e4c-ab88-17c65c481dd7"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Men",
+      "image": "http://lorempixel.com/640/480/technics",
+      "total": "100"
+    },
+    {
+      "id": "2",
+      "name": "Women",
+      "image": "http://lorempixel.com/640/480/technics",
+      "total": "200"
+    }
+  ]
+}
